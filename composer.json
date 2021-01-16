@@ -1,0 +1,17 @@
+{
+  "name": "4selin/oop",
+  "authors": [
+    {
+      "name": "4selin",
+      "email": "4selin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require-dev": {
+    "vimeo/psalm": "^4.4"
+  }
+}
